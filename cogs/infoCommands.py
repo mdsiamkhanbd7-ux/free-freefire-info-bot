@@ -257,7 +257,7 @@ class InfoCommands(commands.Cog):
 
 
 
-            embed.set_footer(text="DEVELOPED BY THUG")
+            embed.set_footer(text="Developed : ! 1n Only Leo")
             await ctx.send(embed=embed)
 
             if region and uid:
